@@ -25,7 +25,7 @@ The dashboard provides interactive visualizations and storytelling to support da
 ## Dashboard Features
 
 * Yearly Real Estate Sales Trend
-Tracks sales growth over time and identifies peak-performing years.
+**Tracks sales growth over time and identifies peak-performing years.
 
 * Town-wise Performance Analysis
 Compares total sales and average sales ratios across towns.
