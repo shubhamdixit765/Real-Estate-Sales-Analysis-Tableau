@@ -1,21 +1,19 @@
 # Real-Estate-Sales-Analysis-Tableau
 
-Project Overview
-This Tableau project analyzes real estate sales data from 2011–2022 to uncover trends in property sales, regional performance, residential preferences, and market growth.
+Interactive Tableau dashboard analyzing real estate sales data (2011–2022). Features yearly sales trends, town-wise performance, sales ratio analysis, property type distribution, geographic mapping, parameter-driven metrics, dashboard actions, and a Tableau Story highlighting key business insights.
 
+## Project Overview
+
+This Tableau project analyzes real estate sales data from 2011–2022 to uncover trends in property sales, regional performance, residential preferences, and market growth.
 The dashboard provides interactive visualizations and storytelling to support data-driven decision-making.
 
-Objectives
+## Objectives
+
 Analyze yearly real estate sales trends
-
 Compare town-wise sales performance
-
 Evaluate average sales ratios
-
 Explore property type distribution
-
 Create interactive dashboard filters and actions
-
 Build a Tableau Story for business insights
 
 Tools Used
