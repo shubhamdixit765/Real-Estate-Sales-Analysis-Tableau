@@ -16,27 +16,27 @@ The dashboard provides interactive visualizations and storytelling to support da
 * Create interactive dashboard filters and actions
 * Build a Tableau Story for business insights
 
-Tools Used
-Tableau Desktop
+## Tools Used
 
-Microsoft Excel / CSV
+* Tableau Desktop
+* Microsoft Excel / CSV
+* GitHub
 
-GitHub
+## Dashboard Features
 
-Dashboard Features
-📈 Yearly Real Estate Sales Trend
+* Yearly Real Estate Sales Trend
 Tracks sales growth over time and identifies peak-performing years.
 
-🏘️ Town-wise Performance Analysis
+* Town-wise Performance Analysis
 Compares total sales and average sales ratios across towns.
 
-🏠 Property Type Composition
+* Property Type Composition
 Analyzes the distribution of residential property categories.
 
-🗺️ Geographical Distribution
+* Geographical Distribution
 Visualizes sales activity across locations using an interactive map.
 
-🎛 Interactive Features
+* Interactive Features
 Filters (Town, Year, Property Type)
 
 Highlight Actions
