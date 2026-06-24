@@ -9,12 +9,12 @@ The dashboard provides interactive visualizations and storytelling to support da
 
 ## Objectives
 
-Analyze yearly real estate sales trends
-Compare town-wise sales performance
-Evaluate average sales ratios
-Explore property type distribution
-Create interactive dashboard filters and actions
-Build a Tableau Story for business insights
+* Analyze yearly real estate sales trends
+* Compare town-wise sales performance
+* Evaluate average sales ratios
+* Explore property type distribution
+* Create interactive dashboard filters and actions
+* Build a Tableau Story for business insights
 
 Tools Used
 Tableau Desktop
