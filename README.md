@@ -24,16 +24,16 @@ The dashboard provides interactive visualizations and storytelling to support da
 
 ## Dashboard Features
 
-* Yearly Real Estate Sales Trend
+* **Yearly Real Estate Sales Trend**
  -- Tracks sales growth over time and identifies peak-performing years.
 
-* Town-wise Performance Analysis
+* **Town-wise Performance Analysis**
  -- Compares total sales and average sales ratios across towns.
 
-* Property Type Composition
+* **Property Type Composition**
  -- Analyzes the distribution of residential property categories.
 
-* Geographical Distribution
+* **Geographical Distribution**
   -- Visualizes sales activity across locations using an interactive map.
 
 ## Interactive Features
@@ -44,30 +44,26 @@ The dashboard provides interactive visualizations and storytelling to support da
 * URL Actions
 * Parameter-based Metric Selector
 
-Key Insights
-Real estate sales grew steadily between 2011 and 2021.
+# Key Insights
 
-Sales peaked in 2021 at approximately $40.25B.
+* Real estate sales grew steadily between 2011 and 2021.
+* Sales peaked in 2021 at approximately $40.25B.
+* Single Family properties dominate market activity.
+* Sales performance varies significantly by town.
+* Geographic location strongly influences sales volume.
 
-Single Family properties dominate market activity.
+# Tableau Story
 
-Sales performance varies significantly by town.
-
-Geographic location strongly influences sales volume.
-
-Tableau Story
-Overall Trends By Year
-
-Town-wise Performance & Sales Ratio
-
-Property Type Composition
-
-Key Insights & Recommendations
+* Overall Trends By Year
+* Town-wise Performance & Sales Ratio
+* Property Type Composition
+* Key Insights & Recommendations
 
 Dashboard Preview
-(Add dashboard screenshot here)
+<img width="1470" height="956" alt="Screenshot 2026-06-24 at 11 49 35 AM" src="https://github.com/user-attachments/assets/9bb9772b-e1c7-4a21-b7b9-c20590573bca" />
 
 
-Author
-Shubham Dixit
+
+**Author**<br>
+Shubham Dixit<br>
 Aspiring Data Analyst
