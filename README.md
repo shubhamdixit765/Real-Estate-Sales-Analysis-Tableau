@@ -25,27 +25,24 @@ The dashboard provides interactive visualizations and storytelling to support da
 ## Dashboard Features
 
 * Yearly Real Estate Sales Trend
-**Tracks sales growth over time and identifies peak-performing years.
+ -- Tracks sales growth over time and identifies peak-performing years.
 
 * Town-wise Performance Analysis
-Compares total sales and average sales ratios across towns.
+ -- Compares total sales and average sales ratios across towns.
 
 * Property Type Composition
-Analyzes the distribution of residential property categories.
+ -- Analyzes the distribution of residential property categories.
 
 * Geographical Distribution
-Visualizes sales activity across locations using an interactive map.
+  -- Visualizes sales activity across locations using an interactive map.
 
-* Interactive Features
-Filters (Town, Year, Property Type)
+## Interactive Features
 
-Highlight Actions
-
-Filter Actions
-
-URL Actions
-
-Parameter-based Metric Selector
+* Filters (Town, Year, Property Type)
+* Highlight Actions
+* Filter Actions
+* URL Actions
+* Parameter-based Metric Selector
 
 Key Insights
 Real estate sales grew steadily between 2011 and 2021.
